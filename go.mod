@@ -1,4 +1,4 @@
-module gitlab.com/tozd/go/mediawiki
+module github.com/devnev/go-mediawiki
 
 go 1.23
 
